@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tiktok-clone/static/css/main.65a26467.css",
+    "main.js": "/tiktok-clone/static/js/main.f7b61cbd.js",
+    "index.html": "/tiktok-clone/index.html",
+    "main.65a26467.css.map": "/tiktok-clone/static/css/main.65a26467.css.map",
+    "main.f7b61cbd.js.map": "/tiktok-clone/static/js/main.f7b61cbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a26467.css",
+    "static/js/main.f7b61cbd.js"
+  ]
+}
